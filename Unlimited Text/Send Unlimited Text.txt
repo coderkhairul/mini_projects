@@ -1,0 +1,2 @@
+1. Import Library First Of All Download For This Work Library Download Linke This => https://pypi.org/project/PyAutoGUI/
+2. Import Terminal Command => pip install PyAutoGUI
